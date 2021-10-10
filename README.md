@@ -1,4 +1,4 @@
-# moreTect
+# moreTech Spaces
 ## Screenshots
 ![Simulator Screen Shot - iPhone 11 - 2021-10-10 at 04 15 20](https://user-images.githubusercontent.com/25299531/136677768-9223a43e-8343-422d-82b4-09df52a85a0c.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-10-10 at 04 15 22](https://user-images.githubusercontent.com/25299531/136677769-f56e30d7-b6d3-4448-b779-a3c788cf52f2.png)
